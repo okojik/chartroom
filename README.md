@@ -1,2 +1,2 @@
-# chartroom
+# chatroom
 Rapid App 
